@@ -1,7 +1,5 @@
 # SCOC Integration
 
-![SCoc Integration](images/Picture1.png)
-
 ## Overview
 
 The SCoc Integration project encompasses a robust suite of tools designed to provide comprehensive security operations capabilities. This integration leverages the strengths of several powerful platforms to enhance threat detection, incident response, and overall security posture.
@@ -44,7 +42,7 @@ To get started with SCoc Integration, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/scoc-integration.git
+    git clone https://github.com/siogy/scoc-integration.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
@@ -75,12 +73,12 @@ We welcome contributions from the community. To contribute, please follow these 
     ```
 3. **Create a Branch**:
     ```bash
-    git checkout -b Main
+    git checkout -b feature-branch
     ```
 4. **Make Your Changes**: Implement your changes and commit them.
 5. **Push to Your Fork**:
     ```bash
-    git push origin Main
+    git push origin feature-branch
     ```
 6. **Create a Pull Request**: Open a pull request on the original repository.
 
